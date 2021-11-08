@@ -1,2 +1,2 @@
 all:
-	@go build -o bin/StringReplacer src/StringReplacer.go
+	go build -o bin/StringReplacer src/StringReplacer.go
