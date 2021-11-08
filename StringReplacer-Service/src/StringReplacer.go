@@ -13,10 +13,7 @@ const version = "1.1"
 const progname = "AV@StringReplacer"
 
 const default_ip = "0.0.0.0"
-const default_port = "8080"
-
-const strFindVal = "Google"
-const strReplacedVal = "Amazon"
+const default_port = "9090"
 
 func init() {
     fmt.Printf("Initalizing program %s (ver. %s)\n", progname, version)
